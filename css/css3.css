@@ -1,0 +1,25 @@
+body{
+    background-color:whitesmoke;
+    width:100%;
+    margin:0 auto;
+}
+header{
+    background-color:rgb(185, 213, 240);
+}
+.navegacao3{
+    overflow:hidden;
+}
+.navegacao3 a{
+    float:none;
+    display:block;
+    color:rgb(0, 0, 0);
+    text-decoration:none;
+    text-align:center; 
+    padding:5px;
+    font-size:40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navegacao3 a:hover{
+    color:brown;
+    background-color:black;
+}

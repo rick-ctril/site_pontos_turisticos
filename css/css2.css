@@ -1,0 +1,74 @@
+body{
+    background-color:whitesmoke;
+    width:100%;
+    margin:0 auto;
+}
+header{
+    background-color:rgb(185, 213, 240);
+}
+.navegacao2{
+    overflow:hidden;
+}
+.navegacao2 a{
+    float:none;
+    display:block;
+    color:rgb(0, 0, 0);
+    text-decoration:none;
+    text-align:center; 
+    padding:5px;
+    font-size:40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navegacao2 a:hover{
+    color:brown;
+    background-color:black;
+}
+.principal{
+    float:left;
+    padding:15px;
+    display: flex;
+    flex-direction: row;
+}
+.praia.do.porto{
+    width:45%;
+    margin:0px 10px 10px 10px;
+    padding:10px 10px 10px 10px;
+    background-color:antiquewhite;
+    text-align:center;
+    font-size:15px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.elevador.lacerda{
+    width:45%;
+    margin:0px 10px 10px 10px;
+    padding:10px 10px 10px 10px;
+    background-color:antiquewhite;
+    text-align:center;
+    font-size:15px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.lagoa.de.abaete{
+    width:45%;
+    background-color:antiquewhite;
+    margin: 0px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    text-align:center;
+    font-size:15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: right;
+}
+.forte.sao.marcelo{
+    width:45%;
+    background-color:antiquewhite;
+    margin: 0px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    text-align:center;
+    font-size:15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: right;
+}
+
+
+

@@ -1,0 +1,61 @@
+body{
+    background-color:whitesmoke;
+    width:100%;
+    margin:0 auto;
+}
+header{
+    background-color:rgb(185, 213, 240);
+}
+.navegacao4{
+    overflow:hidden;
+}
+.navegacao4 a{
+    float:none;
+    display:block;
+    color:rgb(0, 0, 0);
+    text-decoration:none;
+    text-align:center; 
+    padding:5px;
+    font-size:40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navegacao4 a:hover{
+    color:brown;
+    background-color:black;
+}
+.praia.do.porto1{
+    width:95%;
+    margin:10px 10px 10px 35px;
+    padding:10px 10px 10px 10px;
+    background-color:antiquewhite;
+    text-align:center;
+    font-size:15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.elevador.lacerda1{
+    width:95%;
+    margin:10px 10px 10px 35px;
+    padding:10px 10px 10px 10px;
+    background-color:antiquewhite;
+    text-align:center;
+    font-size:15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.lagoa.abaete1{
+    width:95%;
+    margin:10px 10px 10px 35px;
+    padding:10px 10px 10px 10px;
+    background-color:antiquewhite;
+    text-align:center;
+    font-size:15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.forte.sao.marcelo1{
+    width:95%;
+    margin:10px 10px 10px 35px;
+    padding:10px 10px 10px 10px;
+    background-color:antiquewhite;
+    text-align:center;
+    font-size:15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
